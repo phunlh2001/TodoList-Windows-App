@@ -2,6 +2,7 @@
   "name": "todo-list",
   "version": "1.0.0",
   "main": "index.js",
+  "description": "Window App Built with ElectronJS",
   "scripts": {
     "start": "electron-forge start",
     "package": "electron-forge package",
